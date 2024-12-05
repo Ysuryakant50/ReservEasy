@@ -41,7 +41,7 @@ https://reserve-easy.vercel.app/
 Install my-project with npm
 
 ```bash
-  https://github.com/adityasingh208/booking_app.git
+  https://github.com/Ysuryakant50/ReservEasy.git
   cd client 
   npm install
   cd..
